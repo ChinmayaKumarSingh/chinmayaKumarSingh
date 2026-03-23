@@ -1,6 +1,4 @@
-
-
-<h1 align="center">Hello world 👋 I'm Chinmaya Singh</h1>
+<h1 align="center">Hello World 👋 I'm Chinmaya Singh</h1>
 
 <h3 align="center">
 💻 Software Engineer | Java | Spring Boot | Cloud | Microservices | System Design
@@ -42,19 +40,19 @@
 
 ⚡ Passionate about solving real-world engineering problems
 
-```
+---
 
 # ⚡ Engineering Expertise
 
-🚀 Microservices Architecture
-🧠 System Design
-☁️ Cloud Infrastructure (AWS)
-🐳 Docker & Containerization
-🔗 REST API Design
-🗄 Database Optimization
-⚙️ Scalable Backend Systems
+* 🚀 Microservices Architecture
+* 🧠 System Design
+* ☁️ Cloud Infrastructure (AWS)
+* 🐳 Docker & Containerization
+* 🔗 REST API Design
+* 🗄 Database Optimization
+* ⚙️ Scalable Backend Systems
 
-```
+---
 
 # 🛠 Tech Stack
 
@@ -151,6 +149,7 @@
 | Task Manager API             | Backend service for managing tasks     |
 | Banking System API           | Online banking backend system          |
 | Satellite Management System  | Satellite mission backend platform     |
+| Employee Management System   | Employee management REST API           |
 
 ```
 
@@ -166,11 +165,11 @@
 
 # 🧠 Currently Exploring
 
-🤖 Artificial Intelligence & AI Integrations
-🧠 LLM APIs and AI-powered applications
-⚡ High Performance Backend Architecture
-📊 Distributed Systems & Scalability
-🚀 Event Driven Architecture
+* 🤖 Artificial Intelligence & AI Integrations
+* 🧠 LLM APIs and AI-powered applications
+* ⚡ High Performance Backend Architecture
+* 📊 Distributed Systems & Scalability
+* 🚀 Event Driven Architecture
 
 ---
 
