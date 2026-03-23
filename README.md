@@ -1,9 +1,5 @@
 
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212897782-965815e6-3e3a-4e4c-8d5d-2c7a5b6c7f7f.gif" width="100%">
-</p>
-
 <h1 align="center">Hello world 👋 I'm Chinmaya Singh</h1>
 
 <h3 align="center">
